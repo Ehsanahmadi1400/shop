@@ -34,6 +34,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'catalogue.apps.CatalogueConfig',
+    'basket.apps.BasketConfig',
+
 
 ]
 
